@@ -1,0 +1,16 @@
+body
+{
+	/* background-image: url("../img/universe.jpg");*/
+}
+.text-color
+{
+  color: black;
+}
+#datepickerId
+{
+	margin:1rem;
+}
+#placeId
+{
+	margin:1rem;
+}
